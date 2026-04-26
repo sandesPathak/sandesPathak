@@ -156,7 +156,7 @@
 
 <p align="center">
   Open to <b>Senior AI Engineer</b> · <b>Full-Stack AI Engineer</b> · <b>Applied AI</b> roles<br>
-  Remote or hybrid in <b>Plano / DFW, TX</b> · 💸 $150K–$250K · 🇺🇸 GC-EAD (no sponsorship)
+  Remote or hybrid in <b>Plano / DFW, TX</b>
 </p>
 
 <p align="center">
